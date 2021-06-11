@@ -1,0 +1,221 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #473737;
+
+}
+
+
+p{
+    color: white;
+    font-family: Modern Sans, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+
+.footer-description{
+    color: black;
+    font-size: 15px;
+}
+
+hr{
+    color: white;
+}
+
+.hr-footer{
+    color: black;
+}
+
+h1{
+    color: white;
+    font-family: New standard, Helvetica, serif;
+    font-size: 50px;
+}
+
+h5{
+    color: black;
+    font-family: Modern Sans, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: lighter;
+}
+
+.nav-link{
+    font-family: Modern sans, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-left: 15px;
+    color: black !important;
+}
+
+.rød-knap{
+    background-color: #B41D1F;
+    color: white;
+    font-family: Modern Sans, Arial, sans-serif;
+    font-weight: lighter;
+    box-shadow: #161616 1px 1px 8px;
+    padding: 10px;
+}
+
+.grøn-knap{
+    background-color: #6BA742;
+    color: white;
+    font-family: Modern Sans, Arial, sans-serif;
+    font-weight: lighter;
+    box-shadow: #161616 1px 1px 8px;
+    padding: 10px;
+}
+
+
+.copyright{
+    background-color: #E8E8E8;
+    font-size: 10px;
+}
+
+.social-medie-ikon{
+    margin-left: 15px;
+}
+
+.fade-in-transition{
+    opacity: 1;
+    transition: 0.3s;
+  }
+  
+.fade-in-transition:hover{
+    opacity: 0.5;
+}
+
+.fade-in-rød-btn-transition{
+    background-color: #B41D1F;
+    box-shadow: #161616 1px 1px 8px;
+    transition: 0.3s;
+}
+
+.fade-in-rød-btn-transition:hover{
+    background-color: #EE2B2E;
+    box-shadow: #363636 1px 1px 8px;
+  }
+
+.fade-in-grøn-btn-transition{
+    background-color: #6BA742;
+    box-shadow: #161616 1px 1px 8px;
+    transition: 0.3s;
+}
+
+.fade-in-grøn-btn-transition:hover{
+    background-color: #82C951;
+    box-shadow: #363636 1px 1px 8px;
+  }
+
+
+.btn{
+    color: white !important;
+}
+
+.btn-tilmelding{
+    color: white !important;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+
+.mt-0 {
+    margin-top: 0px !important;
+  }
+
+  .mt-1 {
+    margin-top: 10px !important;
+  }
+
+  .mt-2 {
+    margin-top: 20px !important;
+  }
+
+  .mt-3 {
+    margin-top: 30px !important;
+  }
+
+  .mt-4 {
+    margin-top: 40px !important;
+  }
+
+  .mt-5 {
+    margin-top: 50px !important;
+  }
+
+  .mt-6 {
+    margin-top: 60px !important;
+  }
+
+  .mt-7 {
+    margin-top: 70px !important;
+  }
+
+  .mt-8 {
+    margin-top: 80px !important;
+  }
+
+  .mt-9 {
+    margin-top: 90px !important;
+  }
+
+  .mt-10 {
+    margin-top: 100px !important;
+  }
+
+  .mt-15 {
+    margin-top: 150px !important;
+  }
+
+  .mt-17{
+    margin-top: 170px !important;   
+  }
+
+  .mt-20{
+    margin-top: 200px !important;  
+  }
+
+  .pt-01{
+    padding-top: 1px !important;
+  }
+
+ 
+
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background:#5E4D4D;
+    color: white;
+    font-family: Modern sans, Arial, sans-serif;
+    font-weight: lighter;
+}
+  
+  input[type=text]:focus {
+    background-color:#5E4D4D;
+    color: white;
+    font-family: Modern sans, Arial, sans-serif;
+    font-weight: lighter;
+    outline: none;
+  }
+
+
+b{
+      color: white;
+      font-family: Modern sans, Arial, sans-serif;
+      font-weight: lighter;
+  }
+
